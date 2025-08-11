@@ -1,6 +1,6 @@
 # 🍽️ Food and Beverage Data Analysis with Power BI
 
-![DASHBOARD]()
+![DASHBOARD](https://github.com/Vinayaak42/FOODS-AND-BEVARAGES-DATA-ANALYSIS/blob/main/FOODS.PNG)
 ## 📊 Project Overview
 This Power BI dashboard provides a comprehensive analysis of sales and revenue across product categories, channels, quarters, and salespersons in the food and beverage industry. It helps stakeholders understand performance trends and identify key growth areas.
 
